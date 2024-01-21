@@ -1,0 +1,29 @@
+{
+  "name": "excel2pdf",
+  "version": "0.0.1",
+  "description": "Convert Excel To PDF(s) by COM+ Component",
+  "bin": "index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/12Tall/excel2pdf.git"
+  },
+  "keywords": [
+    "Excel",
+    "COM+"
+  ],
+  "author": "12Tall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/12Tall/excel2pdf/issues"
+  },
+  "homepage": "https://github.com/12Tall/excel2pdf#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^11.1.0",
+    "winax": "^3.4.1"
+  }
+}
